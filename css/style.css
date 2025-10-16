@@ -1,0 +1,47 @@
+ body {
+            font-family: 'Times New Roman', serif;
+            
+        }
+
+        .quote-container {
+            margin-top: 100px;
+            padding: 40px;
+            
+            
+        }
+
+        h1 {
+            font-family: 'Impact', sans-serif;
+            font-weight: 700;
+            font-size: 80px;
+            color: black;
+        }
+        .p{
+            font-size: 50px;
+        }
+
+        .btn-custom {
+            background-color: blue;
+            border-color: blue;
+            color: white;
+            padding: 10px 25px;
+            font-weight: bold;
+            
+            border-radius: 8px;
+        }
+
+      
+        .btn-custom:hover {
+            background-color: rgba(20, 109, 67); 
+            border-color:rgba(20, 109, 67);
+            
+        }
+
+        #quoteOutput, #authorOutput {
+            min-height: 50px;
+            font-size: 45px;
+        }
+        #authorOutput {
+            font-size: 30px;
+            
+        }
