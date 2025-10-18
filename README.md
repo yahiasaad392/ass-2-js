@@ -1,1 +1,1 @@
-# ass-2-js
+quote of the day
